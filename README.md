@@ -1,4 +1,4 @@
 # caesarcipher
 Python Simple Program Encrypt
 
-![](Screenshot_1.png)
+![](Screenshot_1.jpg)
